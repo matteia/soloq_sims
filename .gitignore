@@ -27,3 +27,9 @@
 
 ### ignore .ipynb_checkpoints
 .ipynb_checkpoints
+
+### ignore live data scraped
+live_data/
+
+### ignore generated data
+saved_lists/
